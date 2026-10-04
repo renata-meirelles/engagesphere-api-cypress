@@ -1,0 +1,13 @@
+{
+  "name": "engagesphere-api-cypress",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Testes automatizados da API EngageSphere com Cypress",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^15.21.1"
+  }
+}
