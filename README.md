@@ -43,7 +43,7 @@ Os dois cenários foram executados localmente utilizando Cypress.
 
 O código dos dois cenários está disponível no arquivo `cypress/e2e/customers.cy.js`.
 
-O repositório está em desenvolvimento. Os arquivos adicionais de configuração e as instruções completas para reprodução do ambiente serão incluídos nas próximas atualizações.
+O repositório já inclui os arquivos `cypress.config.js` e `package.json`. As instruções completas para preparar o servidor local e executar os testes serão detalhadas nas próximas atualizações.
 
 ## Créditos
 
